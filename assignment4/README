@@ -1,0 +1,51 @@
+## Application Name 
+
+1. Adds a floating point binary number to another floating point binary number.
+2. Subtracts a floating point binary number from another floating point binary number.
+3. Multiplies a floating point binary number by another floating point binary number.
+4. Divides a floating point binary number by another floating point binary number.
+5. Adds a signed real number with another signed real number.
+6. Subtracts a signed real number from another signed real number.
+7. Multiplies a signed real number by another signed real number.
+8. Divides a signed real number by another signed real number.
+
+
+## Technologies
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+GCC compiler
+
+
+
+## Build and Installation
+
+
+This application are running in gcc version 8.3.0 (Debian 8.3.0-6) 
+Navigate to the csci261/assignment4 folder, and then enter make in the terminal 
+
+## Usage
+
+
+
+Navigate to the csci261/assignment folder, and then enter make-run in the terminal to view the output
+
+
+## Contributors
+
+
+floating_point_arithmetics.c 
+integer_arithmetics.c 
+convert.c 
+utility.c 
+    wrote by Caesar
+
+Other material provided from Dr.Kabir Humayun of VIU
+
+
+## License
+
+
+
+VIU license

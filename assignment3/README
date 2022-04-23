@@ -1,0 +1,63 @@
+# Application Name 
+
+
+
+1. Adds a twos complement binary number to another twos complement binary number.
+2. Subtracts a twos complement binary number from another twos complement binary
+number.
+3. Multiplies a twos complement binary number by another twos complement binary
+number.
+4. Divides a twos complement binary number by another twos complement binary
+number.
+5. Adds a signed integer number with another signed integer number.
+6. Subtracts a signed integer number from another signed integer number.
+7. Multiplies a signed integer number by another signed integer number.
+8. Divides a signed integer number by another signed integer number.
+
+
+## Technologies
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+GCC compiler
+
+
+
+## Build and Installation
+
+
+
+This application are running in gcc version 8.3.0 (Debian 8.3.0-6) 
+
+
+Installation:
+
+Navigate to the csci261/assignment folder, then enter make in the terminal
+
+
+
+## Usage
+
+
+
+Navigate to the csci261/assignment folder, and then enter make-run in the terminal to view the output
+
+
+
+
+## Contributors
+
+
+integer_arithmetics.c ,convert.c and utility.c wrote by Caesar
+
+Other material provided from Dr.Kabir Humayun
+
+
+## License
+
+
+
+VIU license
+
+

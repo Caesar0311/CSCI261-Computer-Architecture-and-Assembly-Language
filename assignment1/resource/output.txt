@@ -1,0 +1,42 @@
+bin/convert
+
+Decimal, Binary, and Hex number systems:
+	- Decimal numbers (base 10), no prefix, decimal digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9.
+	- Binary numbers (base 2), 0b prefix, binary digits: 0 and 1.
+	- Hex numbers (base 16), 0x prefix, hex digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F.
+
+Converting from one  number system to another number system. 
+
+
+Checking invalid numbers:
+Error! Invalid digit in the number: 2345abc56
+
+Error! Invalid digit in the number: 0b01340111
+
+Error! Invalid digit in the number: 0x234afgh2
+
+
+Converting to decimal:
+	Converted 000254  => 254
+	Converted 1050  => 1050
+	Converted 0b10000011010 => 1050
+	Converted 0b01111111111111111111111111111111 => 2147483647
+	Converted 0x41A => 1050
+	Converted 0x7FFFFFFF => 2147483647
+
+Converting to binary:
+	Converted 1050 => 0b00000000000000000000010000011010
+	Converted 2147483647 => 0b01111111111111111111111111111111
+	Converted 0b10000011010 => 0b10000011010
+	Converted 0x41A => 0b00000000000000000000010000011010
+	Converted 0x7FFFFFFF => 0b01111111111111111111111111111111
+
+Converting to hex:
+	Converted 1050 => 0x0000041A
+	Converted 2147483647 => 0x7FFFFFFF
+	Converted 0b10000011010 => 0x0000041A
+	Converted 0b01111111111111111111111111111111 => 0x7FFFFFFF
+
+Converting to and from fixed point:
+	Converted 1050.61245 => 000001000001101001110011001001
+	Converted 00000100000110101001110011001001 => 1050.612442

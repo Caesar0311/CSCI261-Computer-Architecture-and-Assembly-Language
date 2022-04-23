@@ -1,0 +1,64 @@
+# Application Name 
+
+General descriptions of the application go here.
+
+Convert any binary number to decimial
+Convert any decimial number to binary
+Convert any hex number to decimial
+Convert any decimial number to hex
+Convert any hex number to binary
+Convert any fixed point number to real number
+Convert any real number to fixed number
+
+
+
+## Technologies
+
+The descriptions of the technologies that are used in this application go here. It includes dependencies or pre-requisites.
+
+This application was wroten by C language, and using 
+
+<stdio.h>
+<stdlib.h>
+<string.h>
+
+
+
+## Build and Installation
+
+Instructions on how to build and install the application go here.
+any
+
+This application are running in gcc version 8.3.0 (Debian 8.3.0-6) 
+
+
+Installation:
+
+Type "make" in terminal on folder assignment2
+
+
+
+## Usage
+
+Instructions on how to run the application go here.
+
+type "make run" in terminal on folder assignment2
+
+
+
+## Contributors
+
+List of the contributors goes here.
+
+signed_convert.c and utility.c wrote by Caesar
+
+Other material provided from Dr.Kabir Humayun
+
+
+## License
+
+Terms and conditions or the types of licenses granted to use this application go here.
+
+VIU license
+
+
